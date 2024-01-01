@@ -1,4 +1,4 @@
-# スクランブル交差点のマルチエージェントシミュレーション
+# スクランブル交差点の歩行者シミュレーション
 
 https://github.com/Git-Yuya/scramble-crossing-simulation/assets/84259422/cf60052a-c7c0-4c30-8b37-cf205e57471e
 
